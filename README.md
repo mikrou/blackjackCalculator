@@ -1,2 +1,2 @@
 # cicd applied using travis-ci
-[![Build Status](https://travis-ci.com/github/mikrou/blackjackCalculator.svg)](https://travis-ci.com/github/mikrou/blackjackCalculator)
+[![Build Status](https://travis-ci.com/github/mikrou/blackjackCalculator)](https://travis-ci.com/github/mikrou/blackjackCalculator)
